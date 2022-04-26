@@ -1,0 +1,16 @@
+body{
+    background-color: #23252C ;
+}
+
+h1{
+    color: blue;
+}
+
+.Card{
+    margin: 0 auto;
+    width: 317px;
+    height: 700px;
+    border: solid #23252C;
+    border-radius: 10px ;
+    background: #1A1B21;
+}
