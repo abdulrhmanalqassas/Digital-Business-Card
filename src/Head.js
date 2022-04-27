@@ -11,7 +11,6 @@ export default function Head(){
        
         <div>
         <Myimg/>
-        <h1> this is my head</h1>
         </div>
     )
 }

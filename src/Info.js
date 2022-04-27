@@ -5,13 +5,12 @@ import React from "react";
 export default function Head(){
     return(
        
-        <div>
-        
+        <div className="Head">
         <h1> Abdulrhman Alqassas</h1>
-        <h2> front-end devoleber</h2>
-        <h3><a href="http://" target="_blank" rel="noopener noreferrer">
-            mysite.com
-            </a></h3>
+        <h4> Frontend Developer</h4>
+        <h5><a href="http://" target="_blank" rel="noopener noreferrer">
+        laurasmith.website
+            </a></h5>
         </div>
     )
 }
