@@ -1,5 +1,5 @@
 import React from "react";
-
+import Info from "./Info";
 
 function Myimg (){
    return (
@@ -11,6 +11,7 @@ export default function Head(){
        
         <div>
         <Myimg/>
+        <Info/>
         </div>
     )
 }

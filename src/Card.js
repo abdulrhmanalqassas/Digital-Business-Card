@@ -1,14 +1,18 @@
 import React from "react";
 import Head from "./Head";
-import Info from "./Info";
-import LinkedInButt from "./LinkedButt";
+import ButtContaner from "./ButtContaner";
+import Main from "./Main";
+import Footer from "./Footer";
+
+
 export default function Card (){
     return(
        <div className="Card">
-          
            <Head/>
-           <Info/>
-           <LinkedInButt/>
+           <ButtContaner/>
+           <Main/>
+           <Footer/>
+           
        </div>
     )
 }
